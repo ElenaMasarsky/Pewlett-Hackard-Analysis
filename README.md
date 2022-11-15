@@ -21,16 +21,19 @@ Then, we used the COUNT() function to create a table that has the number of reti
 Finally, because we wanted to include only current employees in our analysis, we excluded those employees who have already left the company by filtering on to_date to keep only those dates that are equal to '9999-01-01'.  
 ![pic](https://github.com/ElenaMasarsky/Pewlett-Hackard-Analysis/blob/main/Resources/Retirement%20Titles%20table.png)  
 
-- Then we retrieved the number of employees by their most recent job title who are about to retire. This table shows us how many positions Pewlett Hackard needs to fill in the next few years.  
+- Then we retrieved the number of employees by their most recent job title who are about to retire. This table shows us how that 72,458 positions Pewlett Hackard needs to fill in the next few years.  
 ![pic](https://github.com/ElenaMasarsky/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png)  
 
-- Using the ERD you created in this module as a reference and your knowledge of SQL queries, create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
-
+- Using the ERD we created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965 and who are eligible to participate in mentorship program.
+![pic](https://github.com/ElenaMasarsky/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility.png)
 
 
 
 ## Summary
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+As the "silver tsunami" begins to make an impact there are 72,458 roles will need to be filled.
 
