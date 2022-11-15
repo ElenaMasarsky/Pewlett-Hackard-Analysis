@@ -30,10 +30,7 @@ Finally, because we wanted to include only current employees in our analysis, we
 
 
 ## Summary
-
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
-As the "silver tsunami" begins to make an impact there are 72,458 roles will need to be filled.
-
+As the "silver tsunami" begins to make an impact there are 72,458 roles will need to be filled. And there are only 1,549 employees who are eligible to participate in a mentorship
+program to help the manager prepare for the upcoming "silver tsunami".
+So, we can assume that there are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
+That means that company is likely going to need an extensive hiring process in the upcoming years. 
